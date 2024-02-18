@@ -1,0 +1,6 @@
+Sompob,Saralamba,45
+Joe,Smith,40
+Jane,Smith,35
+Bob,Cat,22
+Bill,Student,33
+Michelle,Abacus,48
